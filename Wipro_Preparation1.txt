@@ -1,0 +1,86 @@
+Python Fundamentals
+===================================================
+Variables
+Data Types
+Operators
+Control Flow
+Functions
+Data Stuctures
+Basic Syntax
+Object Oriented Programming (OOPs)
+
+Data Stuctures
+====================================================
+Built-in Data Stuctures
+ - Lists
+ - Tuples
+ - Dictionaries
+ - Sets 
+User Defined Data Stuctures
+ - Linked Lists
+ - Stacks
+ - Queues
+ - Trees
+ - Graphs
+ - Hash Maps (Hash Tables)
+
+Functions
+======================================================
+Built-in Functions
+User Defined Functions
+Lambda Functions (Anonymous Functions)
+Recursive Functions
+
+Modules
+======================================================
+Standard Library Modlues (Built-in)
+ - os: Interacting with the operating system
+ - sys: Accessing system-specific parameters and functions
+ - math: Performing mathematical operations and accessing mathematical constants.
+ - datetime: Working with dates and times.
+ - random: Generating random numbers and sequences.
+ - json: Encoding and decoding JSON data.
+ - collections: Providing specialized container datatypes
+ - re: Working with regular expressions.
+Third-Party Modules (Installed via pip)
+ - NumPy: Numerical computing, especially with multi-dimensional arrays.
+ - Pandas: Data manipulation and analysis, particularly with DataFrames.
+ - Matplotlib: Creating static, animated, and interactive visualizations.
+ - SciPy: Scientific and technical computing
+ - Scikit-learn: Machine learning algorithms and tools.
+ - TensorFlow / PyTorch: Deep learning frameworks.
+ - Requests: Making HTTP requests for web interaction.
+ - Beautiful Soup: Parsing HTML and XML documents for web scraping.
+ - Flask / Django: Web development frameworks.
+
+Packages
+==========================================================
+ - NumPy: Numerical computing, especially with multi-dimensional arrays.
+ - Pandas: Data manipulation and analysis, particularly with DataFrames.
+ - Matplotlib: Creating static, animated, and interactive visualizations.
+ - TensorFlow / PyTorch: Deep learning frameworks.
+ - Requests: Making HTTP requests for web interaction.
+ - Flask / Django: Web development frameworks.
+
+Command-Line Arguments
+===========================================================
+Positional Arguments
+Optional Arguments (Flags / Options)
+
+IO Operations 
+============================================================
+Console I/O
+ - input
+ - output
+File I/O
+ - Opening files
+ - Reading from files
+ - Writing to files 
+Other I/O
+
+Exception Handling
+=============================================================
+Basic Exception Handling (try-except-else-finally)
+Raising Exceptions (raise statement)
+User-Defined Exceptions
+Assertions (assert statement)
