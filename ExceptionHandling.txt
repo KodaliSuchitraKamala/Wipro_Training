@@ -1,0 +1,37 @@
+Exception Handling
+===========================
+Types of errors syntax,logical ......
+built-in exceptions
+ 1. Exception - base class for all exception
+ 2. StopIteration - next() method doesnot point any object
+ 3. SystemExit - sys.exit() function raise
+ 4. StandardError
+ 5. ArthemeticError - math calculations /10
+ 6. OverflowError - Numeric type exceeding the limit of its size 
+ 7. ZeroDivisionError - 10/0
+ 8. AssertionError - assert statement
+ 9. EOFError - till end last statement, when no IO or return value occurs
+ 10. ImportError
+ 11. KeyboardInterrupt
+ 12. LookupError
+ 13. IndexError - list [1, 2, 3, 4]
+ 14. NameError 
+ 15. EnvironmentError - method consider / no value
+ 16. IOError - file IO read finally
+ 17. SystemError
+ 18. ValueError
+ 19. RuntimeError
+ 20. TyeError
+ 21. SyntaxError
+ 22. IndentationError
+ 23. NotImplementError - oop
+ 24. AtributeError
+inheritance(anstract)
+
+Syntax of try amd catch
+try:
+    ------
+    ------
+except Exceptionname:
+    ------
+    ------
