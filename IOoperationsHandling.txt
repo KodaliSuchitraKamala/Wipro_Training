@@ -1,0 +1,24 @@
+IO operations/handling
+ - ASCII testfiles - reading writing append characters
+   1. character is stored in the form of binary values
+ - functions for opening and closing the file
+    syntax
+     - fileobj = open(filename[, access_mode])
+    access modes 
+     - r - default mode for opening a file which opens the file for reading only
+     - rb - opens file in binary format
+     - r+ - opens both reading / writing
+     - rb+ - opens both reading / writing in binary format
+     - w - opens writing format creates a file ont that name when destination is not provided
+     - wb - binary format / write 
+     - w+ - reading / writing
+     - wb+ - both read write in binary format
+     - a - append opens a file to append the data
+     - ab - append binary data
+     - a+ - reading and append
+     - ab+ - reading and appending pf binary data
+
+file obj attributes
+fileobj.closed - ret - return true if the file is closed and false potherwise
+fileobj.mode - opening access
+fileobj.name - return the file name
