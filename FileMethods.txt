@@ -1,0 +1,7 @@
+File Methods
+ - fileno() - file number in your tool
+ - flush() - clears the write buffer from I/P 
+ - isatty() - returns boolean O/P, file stream is interactive or not
+ - readline(n) - particular line
+ - truncate(n) -reallocates the file size byte
+ - rstrip() 
