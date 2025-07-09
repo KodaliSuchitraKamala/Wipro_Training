@@ -1,0 +1,7 @@
+Sys module
+ - sys.argv - sys.argv[0]
+ - sys.argv[1]......
+Error Handling
+ - sys.argv - > sys module
+index default starts from 0
+argparse - flags, optional args
